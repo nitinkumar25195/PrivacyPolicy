@@ -4,57 +4,64 @@ Last updated: 29 January 2026
 
 1. Introduction
 
-Welcome to Instinct VR. We respect your privacy and are committed to protecting it. This Privacy Policy explains how data is handled when you use our application.
+Instinct VR (“the App”) is developed and published by XALT Labs.
+This Privacy Policy explains what data the App collects, how it is used, and how users can exercise their rights regarding that data.
 
 2. Data We Collect
 Meta Horizon Platform Data
 
-Instinct VR uses Meta Horizon platform services to enable core social features. Through these services, the app may access:
+The App uses Meta Horizon platform services to provide core functionality. As a result, the App collects and processes the following data provided by Meta:
 
-Meta user profile display name
+Meta User ID – used to identify the logged-in user for platform features
 
-Meta user profile image
+Meta Profile Name – used for in-game display and leaderboards
 
-Leaderboard and achievement data
+Meta Profile Image – used for in-game user interface display
 
-This data is provided directly by Meta and is used only within the app.
+Leaderboard and Achievement Data – used to display rankings and unlock achievements
 
-Personal Information
+This data is provided directly by Meta when the user logs into the App.
 
-We do not collect or request personal information from users. If you contact us for support, we may receive the information you choose to provide in your message (such as your email address).
+Support Communications
+
+If you contact us for support, we may receive personal information that you voluntarily provide (such as your email address and message content).
 
 3. How We Use Data
 
-We use Meta Horizon platform data solely to:
+The App uses Meta Horizon platform data solely for the following purposes:
 
-Display the user’s profile name and image in the in-game user interface
+Displaying the user’s profile name and profile image within the App
 
-Display names in Meta-managed leaderboards
+Displaying user names in Meta-managed leaderboards
 
-Unlock Meta-managed achievements
+Unlocking and displaying Meta-managed achievements
 
-Support communications are used only to respond to user inquiries.
+Enabling platform authentication and identification
+
+Support communication data is used only to respond to user inquiries.
 
 4. Data Storage and Sharing
 
-Instinct VR does not store, sell, rent, or share personal data.
+The App does not store Meta Horizon User Data on external servers or databases.
 
-All profile, leaderboard, and achievement data is handled and stored by Meta through its platform services. We do not operate our own servers or databases for user data.
+All Meta User ID, profile, leaderboard, and achievement data is managed and stored by Meta through its platform services.
+The App does not sell, rent, or share personal data with third parties.
 
 5. Data Security
 
-Because Instinct VR does not store personal data, no personal data is retained on our systems. Meta Horizon platform services manage the security of any platform-provided data.
+The App does not retain Meta Horizon User Data beyond its use in active application sessions.
+Security of platform data is managed by Meta in accordance with its privacy and security practices.
 
 6. User Rights and Data Deletion
 
-Instinct VR does not retain personal data. Requests regarding Meta profile data, leaderboards, or achievements should be managed through Meta’s account and privacy controls.
+Users may manage or delete their Meta Horizon profile data, including User ID, profile name, profile image, leaderboard entries, and achievements, through Meta’s account and privacy settings.
 
-If you contact us directly for support and wish to delete related correspondence, you may request deletion via the contact details below.
+If you have contacted us for support and wish to request deletion of related communications, you may do so by contacting us using the information below.
 
 7. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Any updates will be posted with a revised effective date.
+We may update this Privacy Policy from time to time. Any changes will be posted with an updated effective date.
 
 8. Contact Us
 
-If you have questions about this Privacy Policy, please contact: support@xaltlabs.in
+If you have questions or requests regarding this Privacy Policy, please contact: support@xaltlabs.in
