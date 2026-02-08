@@ -14,6 +14,8 @@ The App uses Meta Horizon platform services to provide core functionality. As a 
 
 Meta User ID – used to identify the logged-in user for platform features
 
+Meta User Age - used for providing help context
+
 Meta Profile Name – used for in-game display and leaderboards
 
 Meta Profile Image – used for in-game user interface display
